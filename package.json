@@ -1,0 +1,25 @@
+{
+  "name": "jenkinstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiconti/awstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiconti/awstest/issues"
+  },
+  "homepage": "https://github.com/guiconti/awstest#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "mocha": "^3.0.2",
+    "supertest": "^2.0.0"
+  }
+}
